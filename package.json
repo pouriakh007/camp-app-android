@@ -1,0 +1,14 @@
+{
+  "name": "camp-stats-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/filesystem": "^6.0.0",
+    "@capacitor/share": "^6.0.0",
+    "html2canvas": "1.4.1",
+    "xlsx": "0.18.5"
+  }
+}
